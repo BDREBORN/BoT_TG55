@@ -1,4 +1,4 @@
-<p align="center"> ![http://nahrup.ir/view/876/adv-v4.png](http://nahrup.ir/view/876/adv-v4.png)
+
 <h1 align="left">`[⚓️](AdvanSource`, _bot with fast speed and high power)_</h1><p align=centert">  <p align="left">[![Join the chat at https://gitter.im/janlou/AdvanSource](https://badges.gitter.im/AdvanSource.svg)](https://gitter.im/janlou/AdvanSource?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 <h4> It is an anti spam bot (CLI) with fast speed and free for you! based on [TeleSeed](https://github.com/SEEDTEAM/TeleSeed) and powered by [ADVAN™](http://telegram.me/advantm), this source have an original *Autolaunch* and *Steady script* for your ubuntu server.
 ***
